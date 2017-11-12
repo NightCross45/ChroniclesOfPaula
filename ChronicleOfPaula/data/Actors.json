@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"ChroniclesOfPaula","characterIndex":0,"characterName":"ChroniclesOFPaula","classId":1,"equips":[2,1,2,1,3],"faceIndex":0,"faceName":"ChroniclesOFPaula","traits":[],"initialLevel":1,"maxLevel":99,"name":"Paula","nickname":"","note":"","profile":"A Princess who is bound to rule Paulonia."},
+{"id":2,"battlerName":"CP_Pablo","characterIndex":1,"characterName":"ChroniclesOFPaula","classId":2,"equips":[1,6,5,4,7],"faceIndex":1,"faceName":"ChroniclesOFPaula","traits":[],"initialLevel":1,"maxLevel":99,"name":"Pablo","nickname":"","note":"","profile":"A forsaken Knight of Paulonia. "},
+{"id":3,"battlerName":"CP_Zulox","characterIndex":2,"characterName":"ChroniclesOFPaula","classId":3,"equips":[4,0,11,12,13],"faceIndex":2,"faceName":"ChroniclesOFPaula","traits":[],"initialLevel":1,"maxLevel":99,"name":"Enzulo","nickname":"","note":"","profile":"The young and mischievious Prince of Paulonia."},
+{"id":4,"battlerName":"CP_Emilia","characterIndex":3,"characterName":"ChroniclesOFPaula","classId":4,"equips":[5,0,14,15,16],"faceIndex":3,"faceName":"ChroniclesOFPaula","traits":[],"initialLevel":1,"maxLevel":99,"name":"Emilia","nickname":"","note":"","profile":"The Queen Bandit of Javilla. They say she is fear \nacrossed the land for her nature."},
+{"id":5,"battlerName":"CP_Makenzi","characterIndex":4,"characterName":"ChroniclesOFPaula","classId":5,"equips":[0,0,9,8,10],"faceIndex":4,"faceName":"ChroniclesOFPaula","traits":[],"initialLevel":1,"maxLevel":99,"name":"Makenzi","nickname":"","note":"","profile":"A Paulonian maid with healing abilities. "}
+]

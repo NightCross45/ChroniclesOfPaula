@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"animationId":6,"description":"A sword used by the Paulonian Knights. It is said the\nsteel can cut through any flesh.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Knight's Sword","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":1,"description":"A staff passed down from royalty. It is said to empower\nthe user's emotions into the four elements.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":109,"name":"Princess Staff","note":"","params":[0,0,0,0,10,0,0,0],"price":500,"wtypeId":6},
+{"id":3,"animationId":16,"description":"A simple glove with no particular purpose. It\nis, however, made from scratch.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":106,"name":"Maid's Glove","note":"","params":[0,0,0,0,10,0,0,0],"price":500,"wtypeId":11},
+{"id":4,"animationId":11,"description":"A dagger meant to use for practice, yet it can cause\na lot of issues if used unwisely.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"Child's Dagger","note":"","params":[0,0,5,0,0,0,10,0],"price":0,"wtypeId":1},
+{"id":5,"animationId":29,"description":"A bow which is made of fine wood. It looks worn\nbut overall is in good shape.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Bandit's Bow","note":"","params":[0,0,10,0,0,0,10,0],"price":0,"wtypeId":7},
+{"id":6,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]
